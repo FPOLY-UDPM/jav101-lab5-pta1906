@@ -12,7 +12,7 @@ import java.util.Properties;
 public class Mailer {
 
     private static final String GMAIL_USERNAME = "anhptty00148@gmail.com";
-    private static final String GMAIL_PASSWORD = "beoo1906";
+    private static final String GMAIL_PASSWORD = "tghvwaqyolqdnscr";
 
     public static void send(String from, String to, String subject, String body) {
         Properties props = new Properties();
